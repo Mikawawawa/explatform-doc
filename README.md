@@ -1,3 +1,10 @@
-# My Awesome Book
+# About it
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Explatform-min是实验平台网络部分为试用开发的一个版本，与预期的正式版本相比，具有较低拓展性，原有的拓展点和设置点都用固定值进行了调整
+
+前端部分使用Vue2进行开发
+
+后端部分使用Express进行开发
+
+与单片机交互使用Mqtt协议
+
